@@ -1,0 +1,27 @@
+[
+  {
+    "input": {
+      "language": "english",
+      "message": "deprived"
+    },
+    "output": [
+      "The children in the deprived neighborhood didn't have access to basic educational resources.",
+      "She felt deprived of the love and support she needed during that difficult time.",
+      "Deprived of sleep, he struggled to stay awake during the meeting.",
+      "The report highlighted how many people are still deprived of basic healthcare services."
+    ]
+  },
+  {
+    "input": {
+      "language": "italian",
+      "message": "arcobaleno"
+    },
+    "output": [
+      "Dopo la pioggia è apparso un bellissimo arcobaleno nel cielo.",
+      "I bambini erano affascinati dall'arcobaleno che si formava dopo il temporale.",
+      "L'arcobaleno simboleggia speranza e gioia in diverse culture.",
+      "Ho dipinto un arcobaleno nel mio diario per ricordare i momenti felici.",
+      "Durante il viaggio in montagna abbiamo visto un arcobaleno nascere tra le nuvole."
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "input": {
+      "language": "english",
+      "message": "deprived"
+    },
+    "output": [
+      "The deprived neighborhood lacked access to basic resources like clean water and electricity.",
+      "Growing up in a deprived household, she learned to appreciate the value of simple things.",
+      "Children in war-torn areas are often deprived of education and proper healthcare.",
+      "The animal shelter works to provide for neglected and deprived animals.",
+      "Being deprived of sleep can have negative effects on both physical and mental health."
+    ]
+  },
+  {
+    "input": {
+      "language": "italian",
+      "message": "arcobaleno"
+    },
+    "output": [
+      "Dopo la pioggia, è apparso un bellissimo arcobaleno nel cielo.",
+      "Il bambino rimase incantato dall'arcobaleno che colorava il cielo.",
+      "La leggenda dice che all'estremità dell'arcobaleno si trova un tesoro nascosto.",
+      "Le sfumature dell'arcobaleno vengono spesso associate a emozioni positive e speranza."
+    ]
+  }
+]
